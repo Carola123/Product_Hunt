@@ -1,0 +1,358 @@
+
+.body{
+margin:0px;
+border:0px;
+overflow: hidden;
+}
+
+
+#We-never{
+height: 738px;
+padding:17px;	
+overflow: hidden;
+}
+
+
+#We-never h1 {
+
+font-family: calibri light;
+font-size: 60px;
+font-style: normal;
+font-weight: 200;
+letter-spacing: 10px;
+line-height: 80px;
+margin: 0;
+width: 448px;
+font-weight:400;
+font-style:normal;
+}
+
+#We-never p{
+font-family: Calibri Light;
+font-size:16px;
+font-style:normal;
+font-weight: 400;
+letter-spacing: 3.2px;
+line-height: 30px;
+
+}
+
+#We-never a {
+	
+color: #000000;
+cursor:pointer;
+display:block;
+font-family: Times ;	
+font-style: oblique;
+font-size:16px;
+font-weight:400;
+height: 24px;
+padding-top: 24px;
+text-decoration: none;
+letter-spacing: 2px;
+	
+}
+
+
+
+
+
+#Break-the-cycle{
+	
+margin-top: 50px;	
+height:780px;
+width: 100%;
+padding-right:17px;
+padding-left:17px;
+text-align: center;
+background-color: #FFF3F5;
+padding-top: 20px;
+overflow: hidden;
+
+}
+
+#Break-the-cycle h1{
+	color:black;
+	font-family: Times ;	
+	font-style: oblique;
+	font-size:18px;
+	letter-spacing: 1px;
+}
+
+
+#Break-the-cycle h2{
+	color:black;
+	font-family: Calibri Light  ;	
+	font-size:40px;
+	font-style:normal;
+	letter-spacing: 2.5px;
+	line-height: 40px;
+}
+
+#Break-the-cycle h3{
+	display: inline-block;
+	border:1px solid black;
+	padding: 25px;
+	color:black;
+	font-family: Calibri Light  ;	
+	font-size:20px;
+	letter-spacing: 4px;
+	
+	
+}
+
+#Break-the-cycle h3:hover{
+	background-color:black;
+	color:white;
+
+}
+
+#The-Showercap-reinvented {
+	
+text-align: center;
+margin-top: 100px;
+padding-right:17px;
+padding-left:17px;
+overflow: hidden;
+	
+}
+
+#The-Showercap-reinvented h2{
+font-family: Calibri Light;
+	font-size:26px;
+	font-style:normal;
+	letter-spacing: 4.2px;
+	
+
+}
+
+#The-Showercap-reinvented h3{
+font-family: Calibri Light;
+font-size:16px;
+letter-spacing: 2.2px;
+line-height: 20px;
+margin-top: 20px;
+	
+
+}
+
+
+
+#The-Showercap-reinvented a{
+color: black;
+cursor:pointer;
+font-family: Times ;	
+font-style: oblique;
+font-size:16px;
+text-decoration: none;
+letter-spacing: 2px;
+
+}
+
+
+#The-reviews{
+	
+height:780px;
+width: 100%;
+padding-right:17px;
+padding-left:17px;
+background-color: white;
+text-align: center;
+margin-top: 100px;
+overflow: hidden;
+}
+
+#The-reviews h1{
+	font-family: Calibri Light;
+	font-size:26px;
+	font-style:normal;
+	letter-spacing: 4.2px;
+	
+}
+
+
+#The-reviews h2{
+	color:black;
+	font-family: Calibri Light  ;	
+	font-size:40px;
+	font-style:normal;
+	letter-spacing: 3.5px;
+	line-height: 40px;
+}
+
+#The-reviews h3{
+	color:black;
+	font-family: Calibri Light  ;	
+	font-size:20px;
+	font-style:normal;
+	letter-spacing: 3.5px;
+	line-height: 40px;
+}
+
+
+#The-reviews a{
+	margin-top: 50px;
+	display: inline-block;
+	border:1px solid black;
+	padding: 25px;
+	color:black;
+	font-family: Calibri Light  ;	
+	font-size:20px;
+	letter-spacing: 4px;
+	text-decoration: none;
+
+	
+}
+
+#The-reviews a:hover{
+	background-color:black;
+	color:white;
+
+}
+
+
+#Look {
+	
+text-align: center;
+padding-right:17px;
+padding-left:17px;
+	
+}
+
+#Look a{
+color: #000000;
+cursor:pointer;
+display:block;
+font-family: Times ;	
+font-style: oblique;
+font-size:16px;
+text-decoration: none;
+letter-spacing: 2px;
+overflow: hidden;
+}
+
+
+#instagram{
+	
+margin-top: 100px;	
+
+width: 100%;
+
+text-align: center;
+background-color: #FFF3F5;
+
+
+}
+
+#instagram a.follow {
+
+color: black;
+border:1px solid black !important;
+	color: black;
+	font-family: Calibri Light  ;	
+	font-size:20px;
+	letter-spacing: 4px;
+	text-decoration: none;
+	padding: 25px;
+	overflow: hidden;
+
+ }
+
+#instagram a.follow:hover {
+
+background-color:black;
+	color:white;
+
+}
+
+.insta-img img {
+
+margin-bottom: 10px;
+margin-top: 10px;
+
+}
+
+
+
+#instagram h2{
+	
+	color:black;
+	font-family: Calibri Light  ;	
+	font-size:25px;
+	font-style: normal;
+	letter-spacing: 4.5px;
+	line-height: 40px;
+	text-align: center;
+	overflow: hidden;
+}
+
+
+#shop {
+
+color: #000000;
+cursor:pointer;
+display:block;
+font-family: Calibri light ;	
+font-style: oblique;
+font-size:16px;
+text-decoration: none;
+letter-spacing: 2px;
+
+}
+
+.container-fotter{
+margin-top: 150px;	
+height:580px;
+width: 100%;
+padding-right:17px;
+padding-left:17px;
+text-align: center;
+background-color: black;
+padding-top: 20px;
+padding:50px;
+color:white;
+overflow: hidden;
+
+}
+
+.container-fotter h2 {
+color: white;
+cursor:pointer;
+display:block;
+font-family: Calibri light ;	
+font-style: oblique;
+font-size:16px;
+font-weight:400;
+height: 24px;
+padding-top: 24px;
+text-decoration: none;
+letter-spacing: 2px;
+
+}
+
+.container-fotter h3 {
+color: white;
+cursor:pointer;
+display:block;
+font-family: Calibri light ;	
+font-style: oblique;
+font-size:16px;
+font-weight:400;
+height: 24px;
+padding-top: 24px;
+text-decoration: none;
+letter-spacing: 2px;
+
+}
+
+.container-fotter td {
+color: white;
+cursor:pointer;
+font-family: Calibri light ;	
+font-style: oblique;
+font-size:16px;
+padding-top: 24px;
+text-decoration: none;
+letter-spacing: 2px;
+
+}
